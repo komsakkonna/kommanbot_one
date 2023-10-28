@@ -23,6 +23,7 @@ diff_cont:
     wheel_separation: 0.214
     wheel_radius: 0.04
 
+    # use_stamped_vel: true
     use_stamped_vel: false
 
 # joint_broad:
